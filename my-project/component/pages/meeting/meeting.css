@@ -1,0 +1,68 @@
+.meeting {
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 25rpx;
+	position: relative;
+}
+.meeting-box,.sweep-code{
+	width: 250rpx;
+	height: 250rpx;
+	border: 1px solid #CCCCCC;
+	border-radius: 5rpx;
+	background: #ffb853;
+	margin-top: 15rpx;
+	text-align: center;
+	color: #6d4e23;
+}
+.meeting-box {
+	line-height: 200rpx;
+	font-size: 25rpx;
+}
+.sweep-code {
+	font-size: 20rpx;
+}
+.sweep, .code{
+	margin: 10rpx;
+	
+}
+.meeting-tip-box {
+	width: 150rpx;
+	height: 60rpx;
+	border-radius: 5rpx;
+	background: #e0ecf8;
+	font-size: 14rpx;
+	margin: 0 auto;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	margin-left: -75rpx;
+	
+}
+.meeting-tip-title {
+	font-size: 14rpx;
+	padding-left: 4rpx;
+	color: #333333;
+	margin: 5rpx;
+}
+.meeting-tip-btn {
+	color: #00ff00;
+	text-align: center;
+	margin-top: 15rpx;
+}
+.meeting-tip-box.show {
+	display: none;
+}
+.underline {
+	border: 1px solid #6d4e23;
+	width: 25rpx;
+	height: 1px;
+	margin-left: 8rpx;
+	background: #6d4e23;
+	border-radius: 3rpx;
+	display: none;			
+}
+.underline.isShow {
+	display: block;
+}

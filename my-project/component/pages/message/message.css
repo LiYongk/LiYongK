@@ -1,0 +1,90 @@
+.messge-box {
+	width: 100%;
+	height: 100%;
+	background-size: 100% 100%;
+	padding: 35rpx;
+	position: relative;
+}
+.fashion-image {
+	width: 130rpx;
+	height: 180rpx;
+}
+.fashion-image {
+	margin-top: 20rpx;
+	margin-left: 10rpx;
+}
+.slogan {
+	width: 220rpx;
+	height: 125rpx;
+	margin: 25rpx;
+	border-radius: 6rpx;
+	background: #F1F1F1;
+	border: 1px solid #ccc;
+	padding-left: 15rpx;
+	padding-top: 5rpx;
+	
+}
+.surname {
+	width: 40rpx;
+	height: 40rpx;
+	border-radius: 50%;
+	background: #DD524D;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 40rpx;
+	font-weight: 500;
+}
+.techer-name, .teacher-class {
+	display: block;
+	font-size: 22rpx;
+	color: #999999;
+}
+.elastic {
+	display: none;
+	padding: 15rpx;
+	width: 320rpx;
+	height: 80rpx;
+	/* background: #F1F1F1; */
+	border-radius: 6rpx;
+	/* position: absolute; */
+	margin: 0 auto;
+	margin-top: 200rpx;
+	background: #F8F8F8;
+	position: relative;
+	border: 1px solid #ccc;
+}
+.close-btn {
+	position: absolute;
+	top: -10rpx;
+	right: -10rpx;
+	width: 35rpx;
+	height: 35rpx;
+	background: #4CD964;
+	border: 2px solid #FFFFFF;
+	color: #fff;
+	font-size: 25rpx;
+	line-height: 31rpx;
+	text-align: center;
+	border-radius: 50%;
+}
+.techer-name.elastic {
+	color: #4CD964;
+}
+.surname-text-box.one {
+	color: #4CD964;
+	font-size: 25rpx;
+	margin-right: 10rpx;}
+.v-time {
+	color: #C8C7CC;
+	font-size: 15rpx;
+}
+.hello-teacher {
+	font-size: 30rpx;
+	color: #555555;
+}
+.surname.show {
+	margin-right: 15rpx;
+}
+.elastic.isActive {
+	display: block;
+}

@@ -1,0 +1,20 @@
+.cultural-bg {
+	width: 750rpx;
+	height: 550rpx;
+	background-size: 100% 100%;
+	position: relative;
+}
+.test-title {
+	font-size: 30rpx;
+	text-align: center;
+}
+.main-person {
+	margin: 0 auto;
+	text-align: center;
+	font-size: 35rpx;
+	
+}
+.person-name {
+	display: block;
+	margin-top: 150rpx;
+}

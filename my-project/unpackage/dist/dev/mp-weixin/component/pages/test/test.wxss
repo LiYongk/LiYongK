@@ -1,0 +1,117 @@
+page {
+	/* width: 750rpx; */
+	/* height: 550rpx; */
+}
+.text-center {
+	text-align: center;
+}
+.mg-t-5 {
+	margin-top: 5rpx;
+}
+.clear:after {
+	clear: both;
+	content: '';
+	display: block;
+}
+.content {
+	width: 750rpx;
+	margin: 0 auto;
+	height: 550rpx;
+}
+.person-image {
+	width: 130rpx;
+	height: 180rpx;
+}
+.mg-t-5 {
+	margin-top: 5rpx;
+}
+.m-t-10 {
+	margin-top: 10rpx;
+}
+.pd-5 {
+	padding: 5rpx;
+}
+.pd-l-5 {
+	padding-left: 5rpx;
+}
+.pd-r-5 {
+	padding-right: 5rpx;
+}
+.pd-r-25 {
+	padding-right: 25rpx;
+}
+.pd-r-20 {
+	padding-right: 20rpx;
+}
+.m-t-10 {
+	margin-top: 10rpx;
+}
+.m-r-5 {
+	margin-right: 5rpx;
+}
+.m-l-5 {
+	margin-left: 5rpx;
+}
+.mg-15 {
+	margin: 15rpx;
+}
+.content {
+	display: block;
+	clear: both;
+	content: '';
+}
+.pd-l-15 {
+	padding-left: 15rpx;
+}
+.pd-r-15 {
+	padding-right: 15rpx;
+}
+.pd-r-10 {
+	padding-right: 10rpx;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.text-15 {
+	font-size: 15rpx;
+}
+.m-t-25 {
+	margin-top: 25rpx;
+}
+.text-20 {
+	font-size: 20rpx;
+}
+.back {
+	position: absolute;
+	margin: 0 auto;
+	bottom: 8rpx;
+	left: 50%;
+	margin-left: -25rpx;
+}
+.back-image {
+	width: 35rpx;
+	height: 35rpx;
+}
+.cultural-bg {
+	width: 750rpx;
+	height: 550rpx;
+	background-size: 100% 100%;
+	position: relative;
+}
+.test-title {
+	font-size: 30rpx;
+	text-align: center;
+}
+.main-person {
+	margin: 0 auto;
+	text-align: center;
+	font-size: 35rpx;
+}
+.person-name {
+	display: block;
+	margin-top: 150rpx;
+}
+

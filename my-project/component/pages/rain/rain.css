@@ -1,0 +1,11 @@
+.main-box {
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 5rpx;
+	height: 500rpx;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.rain {
+	position: relative;
+}

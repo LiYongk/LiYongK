@@ -1,0 +1,89 @@
+.weather-box {
+	width: 750rpx;
+	height: 550rpx;
+	position: relative;
+	background-repeat: no-repeat;
+	display: block;
+	margin: 0 auto;
+	color: #fff;
+	padding: 25rpx;
+}
+.weather-text {
+	font-size: 25rpx;
+	color: #fff;
+}
+.one-text-box {
+	padding-right: 80rpx;
+	padding-top: 60rpx;
+}
+.two-text-box {
+	padding-top: 40rpx;
+	padding-right: 30rpx;
+}
+.one-text, .two-text {
+	width: 25rpx;
+	word-wrap: wrap;
+	font-size: 26rpx;
+	word-break: normal;
+	display: block;
+}
+.one-text {
+	padding-top: 80rpx;
+	padding-right: 30rpx;
+}
+.two-text {
+	padding-top: 40rpx;
+	padding-right: 30rpx;
+}
+.weather-detail-box {
+	padding-top: 25rpx;
+	padding-left: 20rpx;
+	position: relative;
+	height: 100%;
+	width: 50%;
+}
+.day-weather {
+	border: 1px dashed #fff;
+	border-left: none;
+	border-right: none;
+	height: 30rpx;
+	line-height: 30rpx;
+	width: 50%;
+}
+.day-weather.two {
+	border: none;
+}
+.weather-bottom {
+	position: absolute;
+	bottom: 8%;
+	left: 25rpx;
+	width: 100%;
+}
+.weather-temperature {
+	font-size: 35rpx;
+}
+.weather-temperature, .wind-direction {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	width: 100%;
+}
+.back {
+	position: absolute;
+	margin: 0 auto;
+	bottom: 8rpx;
+	text-align: center;
+	left: 50%;
+	margin-left: -15rpx;
+}
+.back-image {
+	width: 35rpx;
+	height: 35rpx;
+}
+

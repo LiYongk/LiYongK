@@ -1,0 +1,23 @@
+.careful {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.careful-title {
+	width: 80%;
+	margin: 0 auto;
+}
+.careful-title-text {
+	font-size: 16rpx;
+	color: #000;
+}
+.careful-time-text {
+	font-size: 14rpx;
+	color: #CCCCCC;
+	margin-top: 5rpx;
+}
+.careful-main-text {
+	width: 80%;
+	margin: 0 auto;
+	font-size: 14rpx;
+}

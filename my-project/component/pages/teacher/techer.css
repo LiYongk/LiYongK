@@ -1,0 +1,62 @@
+.person-introduce-box {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.content.teacher {
+	position: relative;
+}
+.person-introduce {
+	width: 290rpx;
+	height: 220rpx;
+	margin: 5rpx;
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: row;
+	background: #F1F1F1;
+}
+.introduce-text {
+	font-size: 20rpx;
+}
+.person-introduce-box {
+	width: 600rpx;
+	height: 50%;
+}
+.swiper {
+	width: 600rpx;
+	height: 450rpx;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+}
+.back {
+	text-align: center;
+	font-size: 50rpx;
+	color: red;
+}
+.techerDetail.person-introduce{
+	width: 290rpx;
+	height: 220rpx;
+	border-radius: 10rpx;
+	background: #F1F1F1;
+	position: absolute;
+	color: #333;
+	font: 20rpx;
+	left: 50%;
+	margin-left: -145rpx;
+	top: 12%;
+}
+.techer-pictrue {
+	width: 130rpx;
+	height: 180rpx;
+}
+.introduce-text .name {
+	color: #333333;
+	font-size: 30rpx;
+}
+.introduce-text .teacher-introduce {
+	font-size: 20rpx;
+	color: #000;
+}
+	
+	

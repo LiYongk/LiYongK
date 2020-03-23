@@ -1,0 +1,34 @@
+.fireSafe {
+	width: 100%;
+	height: 100%;
+	/* padding: 25rpx; */
+	position: relative;
+}
+.savePage-text {
+	font-size: 14rpx;
+	margin: 0 auto;
+	/* text-align: center; */
+	width: 700rpx;
+}
+.fireSafe-title-up {
+	font-size: 20rpx;
+}
+.fireSafe-title-down {
+	font-size: 15rpx;
+	color: #CCCCCC;
+}
+.savePage-text {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	width: 100%;
+}
+.savePage-text-box {
+	width: 750rpx;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	width: 525rpx;
+	text-indent: 2em;
+}

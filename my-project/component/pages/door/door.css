@@ -1,0 +1,14 @@
+.door-title {
+	font-size: 25rpx;
+	color: #48be7d;
+	padding-top: 150rpx;
+}
+.door-image {
+	width: 280rpx;
+	height: 80rpx;
+}
+.door-jin {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
