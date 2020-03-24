@@ -1,0 +1,86 @@
+.bullet-left{
+	width: 110rpx;
+	height: 150rpx;
+	float: left;
+	margin: 30rpx;
+	background-image: url(../../static/img/0背景.png);
+	background-size: 100% 100%;
+	/* border: 1rpx #333333 solid; */
+}
+
+.b-font{
+	width: 70rpx;
+	height: 20rpx;
+	/* border: 1rpx #333333 solid; */
+	font-size: 12rpx;
+	text-align: center;
+	margin-left: 20rpx;
+	margin-top: 125rpx;
+	color: #f0f0bf;
+}
+
+.b-content{
+	float: left;
+	width: 560rpx;
+	height: 300rpx;
+	margin-top: 30rpx;
+	/* border: 1rpx #333333 solid; */
+}
+.b-content-h{
+	float: left;
+	width: 180rpx;
+	height: 60rpx;
+	margin: 3rpx;
+	/* border: 1rpx #333333 solid; */
+}
+
+.b-content-img{
+	float: left;
+	width: 60rpx;
+	height: 60rpx;
+	/* border: 1rpx #333333 solid; */
+}
+.b-content-images{
+	width: 56rpx;
+	height: 60rpx;
+}
+.b-title-font{
+	float: left;
+	margin-left: 5rpx;
+	width: 110rpx;
+	height: 25rpx;
+	font-size: 15rpx;
+	/* border: 1rpx #333333 solid; */
+}
+
+.b-content-doc{
+	float: left;
+	margin-left: 5rpx;
+	width: 110rpx;
+	height: 30rpx;
+	/* border: 1rpx #333333 solid; */
+}
+.font-style{
+	font-size: 12rpx;
+	overflow: hidden;
+	word-break: break-all;  /* break-all(允许在单词内换行。) */
+	text-overflow: ellipsis;  /* 超出部分省略号 */
+	display: -webkit-box; /** 对象作为伸缩盒子模型显示 **/
+	-webkit-box-orient: vertical; /** 设置或检索伸缩盒对象的子元素的排列方式 **/
+	-webkit-line-clamp: 2; /** 显示的行数 **/
+}
+.error{
+	float: left;
+	width: 40rpx;
+	height: 30rpx;
+	margin-left: 350rpx;
+	margin-top: 50rpx;
+	/* border: 1rpx #333333 solid; */
+}
+
+.error-img{
+	float: left;
+	width: 40rpx;
+	height: 30rpx;
+}
+

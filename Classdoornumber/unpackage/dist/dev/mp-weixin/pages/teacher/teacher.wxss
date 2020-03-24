@@ -1,0 +1,218 @@
+page {
+	/* width: 750rpx; */
+	/* height: 550rpx; */
+}
+.text-center {
+	text-align: center;
+}
+.mg-t-5 {
+	margin-top: 5rpx;
+}
+.clear:after {
+	clear: both;
+	content: '';
+	display: block;
+}
+.text-25 {
+	font-size: 25rpx;
+}
+.content {
+	width: 750rpx;
+	margin: 0 auto;
+	height: 550rpx;
+}
+.person-image {
+	width: 130rpx;
+	height: 180rpx;
+}
+.mg-t-5 {
+	margin-top: 5rpx;
+}
+.m-t-10 {
+	margin-top: 10rpx;
+}
+.pd-5 {
+	padding: 5rpx;
+}
+.pd-l-5 {
+	padding-left: 5rpx;
+}
+.pd-r-5 {
+	padding-right: 5rpx;
+}
+.pd-r-25 {
+	padding-right: 25rpx;
+}
+.pd-r-20 {
+	padding-right: 20rpx;
+}
+.m-t-10 {
+	margin-top: 10rpx;
+}
+.m-r-5 {
+	margin-right: 5rpx;
+}
+.m-l-5 {
+	margin-left: 5rpx;
+}
+.mg-15 {
+	margin: 15rpx;
+}
+.content {
+	display: block;
+	clear: both;
+	content: '';
+}
+.pd-l-15 {
+	padding-left: 15rpx;
+}
+.pd-r-15 {
+	padding-right: 15rpx;
+}
+.pd-r-10 {
+	padding-right: 10rpx;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.text-15 {
+	font-size: 15rpx;
+}
+.m-t-25 {
+	margin-top: 25rpx;
+}
+.text-20 {
+	font-size: 20rpx;
+}
+.back {
+	position: absolute;
+	margin: 0 auto;
+	bottom: 8rpx;
+	left: 50%;
+	margin-left: -25rpx;
+}
+.back-image {
+	width: 35rpx;
+	height: 35rpx;
+}
+.person-introduce-box {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.content.teacher {
+	position: relative;
+}
+.person-introduce {
+	width: 290rpx;
+	height: 220rpx;
+	margin: 5rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	background: #F1F1F1;
+}
+.introduce-text {
+	font-size: 20rpx;
+	margin-left: 5rpx;
+}
+.person-introduce-box {
+	width: 600rpx;
+	height: 50%;
+}
+.swiper {
+	width: 600rpx;
+	height: 450rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+}
+.back {
+	text-align: center;
+	font-size: 50rpx;
+	color: red;
+}
+.techerDetail.person-introduce{
+	display: none;
+	width: 290rpx;
+	height: 220rpx;
+	border-radius: 10rpx;
+	background: #F1F1F1;
+	position: absolute;
+	color: #333;
+	font: 20rpx;
+	left: 50%;
+	margin-left: -145rpx;
+	top: 12%;
+}
+.techerDetail.person-introduce.show {
+	display: block;
+}
+.techer-pictrue {
+	width: 130rpx;
+	height: 180rpx;
+}
+.introduce-text .name {
+	color: #333333;
+	font-size: 30rpx;
+}
+.introduce-text .teacher-introduce {
+	font-size: 20rpx;
+	color: #000;
+}
+.close-btn {
+	width: 30rpx;
+	height: 30rpx;
+	font-size: 16rpx;
+	color: #fff;
+	background: #00FF00;
+	border: 2px solid #fff;
+	border-radius: 50%;
+	position: absolute;
+	right: -12rpx;
+	top: -12rpx;
+	text-align: center;
+	line-height: 28rpx;
+}
+.teacher-page {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	direction: row;
+}
+.fashion-image-box {
+	width: 150rpx;
+	height: 50%;
+}
+.fashion {
+	width: 150rpx;
+	height: 180rpx;
+}
+.lizheng-image {
+	width: 130rpx;
+	height: 180rpx;
+}
+
+	
+

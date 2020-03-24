@@ -1,0 +1,111 @@
+.swiper1{
+	background-image: url(../../static/commendimages.jpg);
+	background-size: 100%100%;
+}
+.swiper2{
+	background-image: url(../../static/fengjing2.jpg);
+	background-size: 100%100%;
+}
+.swiper3{
+	background-image: url(../../static/fengjing3.jpg);
+	background-size: 100%100%;
+}
+.swiper4{
+	background-image: url(../../static/fengjing4.jpg);
+	background-size: 100%100%;
+}
+.swiper5{
+	background-image: url(../../static/fengjing5.jpg);
+	background-size: 100%100%;
+}
+.swiper6{
+	background-image: url(../../static/fengjing6.jpg);
+	background-size: 100%100%;
+}
+.swiper7{
+	background-image: url(../../static/fengjing1.jpg);
+	background-size: 100%100%;
+}
+
+.commend-title{
+	float: left;
+	width: 200rpx;
+	height: 40rpx;
+	margin-top: 10rpx;
+	margin-left: 300rpx;
+	text-align: center;
+	
+}
+.commend-font{
+	color: #F0AD4E;
+	font-family: monospace;
+	
+}
+
+.comend-content{
+	width: 400rpx;
+	height: 150rpx;
+	margin-left: 200rpx;
+	margin-top: 30rpx;
+	float: left;
+	/* border: 1rpx #333333 solid; */
+	
+}
+.comend-font{
+	font-size: 15rpx;
+	color: #F9F9F9;
+}
+
+.bottom-content{
+	text-align: center;
+	width: 200rpx;
+	height: 40rpx;
+	margin-top: 3rem;
+	float: right;
+	/* border: 1rpx #333333 solid; */
+}
+
+.inner-frame{
+	width: 100%;
+	height: 20rpx;
+	
+}
+.colo-style2{
+	color: #4CD964;
+}
+.colo-style3{
+	color: #00557f;
+}
+.colo-style4{
+	color: #b5afff;
+}
+.colo-style5{
+	color: #ff55ff;
+}
+.colo-style6{
+	color: #ffff00;
+}
+.colo-style7{
+	color: #4CD964;
+}
+
+
+.error{
+	width: 40rpx;
+	height: 30rpx;
+	float: left;
+	margin-left: 355rpx;
+	margin-top: -30rpx;
+}
+
+.error-img{
+	float: left;
+	width: 40rpx;
+	height: 30rpx;
+}
+
+
+
+
+
+

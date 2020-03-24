@@ -1,0 +1,193 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			// 测试页面
+			// "path":"pages/test/test",
+			
+			
+			"path": "pages/index/index",
+			// 通知
+			// "path": "pages/notice/notice",
+			// 课表
+			// "path": "pages/ClassScheduleCard/classcard",
+			//班风
+			// "path": "pages/classdemeanor/classdemeanor",
+			// 月评价
+			// "path": "pages/monthlyassessment/monthlyassessment",
+			//学校
+			// "path": "pages/school/school",
+			// 公告栏
+			// "path":"pages/bulletinboard/bulletinboard",
+			//公告栏子页面
+			// "path":"pages/bulletinboard/bulletinboardsonpage",
+			//评比
+			// "path":"pages/rating/rating",
+			// 班际
+			// "path":"pages/interclass/interclass",
+			// 班际	了解更多详情
+			// "path":"pages/learnmore/learnmore",
+			// 了解更多详情	图片放大
+			// "path":"pages/detailsenlarged/detailsenlarged",
+			// 出勤
+			// "path":"pages/attendance/attendance",
+			// 表彰
+			// "path":"pages/commend/commend",
+			// 学生风采
+			// "path":"pages/studentdemeanor/studentdemeanor",
+			
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			//班风
+			"path": "pages/classdemeanor/classdemeanor",
+			"style":{}
+		},
+		{
+			// 月评价
+			"path": "pages/monthlyassessment/monthlyassessment",
+			"style":{}
+		},
+		{	// 通知
+			"path": "pages/notice/notice",
+			"style":{}
+		},
+		{
+			// 课表
+			"path": "pages/ClassScheduleCard/classcard",
+			"style":{}
+		},
+		{
+			//学校
+			"path": "pages/school/school",
+			"style":{}
+		},
+		{
+			// 公告栏
+			"path":"pages/bulletinboard/bulletinboard",
+			"style":{}
+		},
+		{
+			//公告栏子页面
+			"path":"pages/bulletinboard/bulletinboardsonpage",
+			"style":{}
+		},
+		{
+			//评比
+			"path":"pages/rating/rating",
+			"style":{}
+		},
+		{
+			// 班际
+			"path":"pages/interclass/interclass",
+			"style":{}
+		},
+		{
+			// 班际	了解更多详情
+			"path":"pages/learnmore/learnmore",
+			"style":{}
+		},
+		{
+			// 了解更多详情	图片放大
+			"path":"pages/detailsenlarged/detailsenlarged",
+			"style":{}
+		},
+		{
+			// 出勤
+			"path":"pages/attendance/attendance",
+			"style":{}
+		},
+		{
+			// 场所预约
+			"path":"pages/placereservation/placereservation",
+			"style":{}
+		},
+		{
+			// 表彰
+			"path":"pages/commend/commend",
+			"style":{}
+		},
+		{
+			// 倒计时
+			"path":"pages/countdown/countdown",
+			"style":{}
+		},
+		{
+			// 学生风采
+			"path":"pages/studentdemeanor/studentdemeanor",
+			"style":{}
+		},
+		{
+			// 留言寄语
+			"path":"pages/message/message",
+			"style":{}
+		},
+		{
+			// 评价
+			"path":"pages/evaluate/evaluate",
+			"style":{}
+		},
+		{
+			// 成绩
+			"path":"pages/achievement/achievement",
+			"style":{}
+		},
+		{
+			"path":"pages/checkWorke/checkWorke",
+			"style":{}
+		},
+		{
+			"path":"pages/safePage/safePage",
+			"style":{}
+		},
+		{
+			"path":"pages/careful/careful",
+			"style":{}
+		},
+		{
+			"path":"pages/fireSafe/fireSafe",
+			"style":{}
+		},
+		{
+			"path":"pages/safePageText/safePageText",
+			"style":{}
+		},
+		{
+			"path":"pages/rain/rain",
+			"style":{}
+		},
+		{
+			"path":"pages/meeting/meeting",
+			"style":{}
+		},
+		{
+			"path":"pages/door/door",
+			"style":{}
+		},
+		{
+			"path":"pages/about/about",
+			"style":{}
+		},
+		{
+			"path":"pages/teacher/teacher",
+			"style":{}
+		},
+		{
+			"path":"pages/test/test",
+			"style":{}
+		},
+		{
+			"path":"pages/weather/weather",
+			"style":{}
+		}
+	],
+	"globalStyle": {
+		"navigationStyle":"custom",
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+	
+}

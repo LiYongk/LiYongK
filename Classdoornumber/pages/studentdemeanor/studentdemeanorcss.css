@@ -1,0 +1,101 @@
+.bullet-left{
+	width: 110rpx;
+	height: 110rpx;
+	float: left;
+	margin-top: 30rpx;
+	margin-left: 30rpx;
+	background-image: url(../../static/img/0背景.png);
+	background-size: 100% 100%;
+	/* border: 1rpx #333333 solid; */
+}
+
+.b-font{
+	width: 70rpx;
+	height: 20rpx;
+	/* border: 1rpx #333333 solid; */
+	font-size: 12rpx;
+	text-align: center;
+	margin-left: 20rpx;
+	margin-top: 90rpx;
+	color: #f0f0bf;
+}
+
+.b-content{
+	float: left;
+	width: 600rpx;
+	height: 300rpx;
+	margin-top: 15rpx;
+	/* border: 1rpx #333333 solid; */
+}
+.b-content-h{
+	float: left;
+	width: 260rpx;
+	height: 110rpx;
+	margin: 15rpx;
+	background-color: #F0F0BF;
+	/* border: 1rpx #333333 solid; */
+}
+
+.b-content-img{
+	float: left;
+	width: 80rpx;
+	height: 110rpx;
+	/* margin-left: 10rpx; */
+	/* border: 1rpx #333333 solid; */
+}
+.b-content-images{
+	width: 80rpx;
+	height: 110rpx;
+	margin-left: 5rpx;
+}
+.b-title-font{
+	float: left;
+	margin-top: 5rpx;
+	margin-left: 20rpx;
+	width: 110rpx;
+	height: 20rpx;
+	font-size: 13rpx;
+	/* border: 1rpx #333333 solid; */
+}
+
+.b-content-doc{
+	float: left;
+	margin-left: 20rpx;
+	width: 150rpx;
+	height: 60rpx;
+	/* border: 1rpx #333333 solid; */
+}
+.b-content-doc1{
+	float: left;
+	margin-left: 20rpx;
+	width: 110rpx;
+	height: 15rpx;
+	/* border: 1rpx #333333 solid; */
+}
+.font-style{
+	font-size: 10rpx;
+	overflow: hidden;
+	word-break: break-all;  /* break-all(允许在单词内换行。) */
+	text-overflow: ellipsis;  /* 超出部分省略号 */
+	display: -webkit-box; /** 对象作为伸缩盒子模型显示 **/
+	-webkit-box-orient: vertical; /** 设置或检索伸缩盒对象的子元素的排列方式 **/
+	-webkit-line-clamp: 5; /** 显示的行数 **/
+}
+.font-style1{
+	font-size: 10rpx;
+	/* color: #C0C0C0; */
+}
+.error{
+	width: 40rpx;
+	height: 30rpx;
+	float: left;
+	margin-left: 355rpx;
+	margin-top: 60rpx;
+}
+
+.error-img{
+	float: left;
+	width: 40rpx;
+	height: 30rpx;
+}
+

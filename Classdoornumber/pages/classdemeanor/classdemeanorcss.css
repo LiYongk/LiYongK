@@ -1,0 +1,31 @@
+page{
+	
+	background-color: #ffad69;
+}
+.classdemeanor-border{
+	float: left;
+	text-align: center;
+	width: 300rpx;
+	height: 40rpx;
+	margin-top: 150rpx;
+	margin-left: 230rpx;
+}
+.classdemeanor-font{
+	font-size: 25rpx;
+	color: #FFFFFF;
+}
+.error{
+	float: left;
+	width: 40rpx;
+	height: 30rpx;
+	margin-left: 350rpx;
+	margin-top: 150rpx;
+}
+	
+.error-img{
+	float: left;
+	width: 40rpx;
+	height: 30rpx;
+}
+
+

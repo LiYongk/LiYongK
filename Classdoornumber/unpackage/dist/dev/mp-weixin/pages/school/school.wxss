@@ -1,0 +1,58 @@
+/* .content{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+} */
+.school-outermost{
+	float: left;
+	width: 400rpx;
+	height: 300rpx;
+	text-align: center;
+	margin-left: 170rpx;
+	/* border: 1rpx #333333 solid; */
+}
+.school-img{
+	width: 100rpx;
+	height: 100rpx;
+	margin-top: 50rpx;
+	margin-left: 150rpx;
+}
+.images{
+	width: 100rpx;
+	height: 100rpx;
+}
+.school-name{
+	width: 200rpx;
+	height: 30rpx;
+	margin-top: 30rpx;
+	margin-left: 100rpx;
+	font-size: 17rpx;
+}
+
+/* 间隔线 */
+.tran{
+	width: 100rpx;
+	margin-left: 145rpx;
+	border: 1rpx #C0C0C0 solid;
+}
+.tran1{
+	width: 160rpx;
+	height: 20rpx;
+	margin-top: 10rpx;
+	margin-left: 120rpx;
+	font-size: 11rpx;
+}
+.error{
+	width: 40rpx;
+	height: 30rpx;
+	float: left;
+	margin: 15rpx;
+	margin-left: 350rpx;
+	margin-top: 70rpx;
+}
+.error-img{
+	float: left;
+	width: 40rpx;
+	height: 30rpx;
+}
+

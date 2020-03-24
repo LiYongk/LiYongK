@@ -1,0 +1,519 @@
+page{
+		
+		background-image: url('../../static/img/0背景.png');
+		background-size: 100%100%;
+		
+	}
+
+.content {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.logo {
+		height: 200rpx;
+		width: 200rpx;
+		margin-top: 200rpx;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 50rpx;
+	}
+
+	.text-area {
+		display: flex;
+		justify-content: center;
+	}
+
+	.title {
+		font-size: 36rpx;
+		color: #8f8f94;
+	}
+	
+	/* 班级月评css */
+	.navbar{
+		position: fixed;
+		width: 7rem;
+		height: 100rpx;
+		float: left;
+		margin-top: 65rpx;
+		margin-left: -210rpx;
+		border-radius:10px;
+		background-image: url(../../static/img/1班级信息_背景.png);
+		background-size: 100%100%;
+	}
+	.navbar1{
+		width: 110rpx;
+		height: 25rpx;
+		margin: 15rpx;
+	}
+.navbar2{
+	width: 100rpx;
+	height: 25rpx;
+	margin: 15rpx;
+	float: right;
+	margin-top: -75rpx;
+}
+.navbar3{
+		width: 100rpx;
+		height: 25rpx;
+		margin: 15rpx;
+		float: right;
+		margin-top: -41rpx;
+}
+.image {
+	z-index: 11;
+	width: 16rpx;
+	height: 16rpx;
+}
+		
+		
+	/* 班级 字体class */
+	.cfont{
+		color: #FFFFFF;
+		font-size: 18rpx;
+	}
+	.cfont1{
+		color: #333333;
+		font-size: 13rpx;
+		/* 更换字体 */
+		font-family: cursive;
+	}
+	.cfont2{
+		color: #333333;
+		font-size: 15rpx;
+		text-align: center;
+	}
+	.cfont3{
+		color: #333333;
+		font-size: 12rpx;
+		text-align: center;
+		
+	}
+	.cfont4{
+		color: #333333;
+		font-size: 12rpx;
+		text-align: center;
+		
+	}
+	.cfont5{
+		color: #333333;
+		font-size: 12rpx;
+		
+	}
+	.cfont8{
+		color: #333333;
+		font-size: 10rpx;
+		overflow: hidden;
+		word-break: break-all;  /* break-all(允许在单词内换行。) */
+		text-overflow: ellipsis;  /* 超出部分省略号 */
+		display: -webkit-box; /** 对象作为伸缩盒子模型显示 **/
+		-webkit-box-orient: vertical; /** 设置或检索伸缩盒对象的子元素的排列方式 **/
+		-webkit-line-clamp: 1; /** 显示的行数 **/
+		
+	}
+	.cfont9{
+		color: #333333;
+		font-size: 8rpx;
+		overflow: hidden;
+		word-break: break-all;  /* break-all(允许在单词内换行。) */
+		text-overflow: ellipsis;  /* 超出部分省略号 */
+		display: -webkit-box; /** 对象作为伸缩盒子模型显示 **/
+		-webkit-box-orient: vertical; /** 设置或检索伸缩盒对象的子元素的排列方式 **/
+		-webkit-line-clamp: 4; /** 显示的行数 **/
+	}
+	.cfont6{
+		color: #333333;
+		font-size: 9rpx;
+	}
+	.cfont7{
+		color:  #007AFF;
+		font-size: 9rpx;
+		text-align: center;
+		margin-top: 5rpx;
+	}
+	/* 班级月评 图片 */
+	.cimgs{
+		margin:1rpx;
+		margin-top: -3rpx;
+		width: 20rpx;
+		height: 15rpx;
+		float: right;
+		/* background-image: url(../../img/1班级信息评价.png); */
+		/* background-size: 100%100%; */
+	}
+	.cimgs1{
+		width: 20rpx;
+		height: 15rpx;		
+		float: left;
+	}
+	
+	/* 班主任介绍 css */
+	.middle{
+		position: fixed;
+		width: 210rpx;
+		height: 100rpx;
+		float: left;
+		margin-top: 65rpx;
+		margin-left: 47rpx;
+		border-radius:10px;
+		background-image: url(../../static/img/2班主任介绍_背景.png);
+		background-size: 100%100%;
+	}
+	.viewbar{
+		width:80rpx ;
+		height: 15rpx;
+		/* border: 1px #333333 solid; */
+		background-image: url(../../static/img/2班主任介绍_标题.png);
+		background-size: 100% 100%;
+		margin-top: 10rpx;
+		margin-left: 20rpx;
+		float: left;
+	}
+	.name{
+		width:80rpx ;
+		height: 15rpx;
+		/* border: 1px #333333 solid; */
+		margin-top: 40rpx;
+		margin-left: 10rpx;
+	}
+	.type{
+		width:95rpx ;
+		height: 15rpx;
+		/* border: 1px #333333 solid; */
+		margin-top: 2rpx;
+		margin-left: 10rpx;
+	}
+	.phone{
+		width:105rpx ;
+		height: 20rpx;
+		/* border: 1px #333333 solid; */
+		margin-top: 2rpx;
+		margin-left: 10rpx;
+	}
+	.phone1{
+		width:16rpx ;
+		height: 15rpx;
+		/* border: 1px #333333 solid; */
+		background-image: url(../../static/img/2班主任介绍_电话.png);
+		background-size: 100% 100%;
+		float: left;
+	}
+	.viewright{
+		width:50rpx ;
+		height: 70rpx;
+		float: left;
+		margin-top: -75rpx;
+		margin-left: 125rpx;
+	}
+	.viewright1{
+		width:20rpx ;
+		height: 70rpx;
+		float: left;
+		margin-top: -80rpx;
+		margin-left: 185rpx;
+	}
+	
+	/* 通告 */
+	.vright{
+		position: fixed;
+		width: 170rpx;
+		height: 100rpx;
+		float: left;
+		margin-top: 65rpx;
+		margin-left: 255rpx;
+		border-radius:10px;
+		background-image: url(../../static/img/3通知公告_bg.png);
+		background-size: 100%100%;
+	}
+	.vtong{
+		width: 80rpx;
+		height: 13rpx;
+		margin: 10rpx;
+		background-image: url(../../static/img/3通知公告_标题.png);
+		background-size: 100%100%;
+	}
+	.vtong1{
+		font-weight: bold;
+		width:110rpx;
+		height: 13rpx;
+		margin-top: 10rpx;
+		margin-left: 10rpx;
+	}
+	.vtong2{
+		width:150rpx;
+		height: 40rpx;
+		margin-top: 5rpx;
+		margin-left: 10rpx;
+	}
+	
+	/* 班级宣传 */
+	.Propaganda{
+		position: fixed;
+		width: 200rpx;
+		height: 110rpx;
+		float: left;
+		margin-top: 180rpx;
+		margin-left: -240rpx;
+		border-radius:10px;
+		background-image: url(../../static/img/4班级宣传_背景.png);
+		background-size: 100%100%;
+	}
+	.Propaganda1{
+		width:75rpx ;
+		height: 15rpx;
+		/* border: 1px #333333 solid; */
+		background-image: url(../../static/img/4班级宣传_标题.png);
+		background-size: 100% 100%;
+		margin-top: 10rpx;
+		margin-left: 10rpx;
+		float: left;
+	}
+	.vban{
+		width: 178rpx;
+		height: 20rpx;
+		margin-top: 30rpx;
+		margin-left: 10rpx;
+		
+	}
+	.vban1{
+		width: 178rpx;
+		height: 20rpx;		
+		margin-top: 5rpx;
+		margin-left: 10rpx;
+		
+	}
+	.vban2{
+		width: 178rpx;
+		height: 20rpx;
+		margin-top: 5rpx;
+		margin-left: 10rpx;
+		
+	}
+	.bfont{
+		margin-top: -10rpx;
+		margin-left: 35rpx;
+		width: 140rpx;
+		height: 15rpx;
+		overflow: hidden;
+		word-break: break-all;  /* break-all(允许在单词内换行。) */
+		text-overflow: ellipsis;  /* 超出部分省略号 */
+		display: -webkit-box; /** 对象作为伸缩盒子模型显示 **/
+		-webkit-box-orient: vertical; /** 设置或检索伸缩盒对象的子元素的排列方式 **/
+		-webkit-line-clamp: 2; /** 显示的行数 **/
+		font-size: 15px;
+		color: #999999;
+	}
+	.bfont5{
+		color: #333333;
+		font-size: 11rpx;
+		/* 更换字体 */
+		font-family: cursive;
+	}
+	
+	/* 任课教师 */
+	.teacher{
+		position: fixed;
+		width: 200rpx;
+		height: 110rpx;
+		float: left;
+		margin-top: 300rpx;
+		margin-left: -240rpx;
+		border-radius:10px;
+		background-image:  url(../../static/img/4任课教师_背景.png);
+		background-size: 100%100%;
+	}
+	.tviewbar{
+		width:75rpx ;
+		height: 13rpx;
+		background-image: url(../../static/img/4任课教师_标题.png);
+		background-size: 100% 100%;
+		margin-top: 10rpx;
+		margin-left: 20rpx;
+		float: left;
+	}
+	.tviewright{
+		width:50rpx ;
+		height: 70rpx;		
+		float: left;
+		margin-top: -80rpx;
+		margin-left: 125rpx;
+	}
+	.demeanor4{
+		position: fixed;
+		width: 190rpx;
+		height:100rpx;
+		margin-top: 10rpx;
+	}
+	
+	
+	
+	/* 精彩视频 */
+	.Classvideo{
+		position: fixed;
+		width: 270rpx;
+		height: 110rpx;
+		float: left;
+		margin-top: 180rpx;
+		margin-left: 17rpx;
+		border-radius:10px;
+		background-image: url(../../static/img/5精彩视频_背景.png);
+		background-size: 100%100%;
+	}
+	.video1{
+		width: 95rpx;
+		height: 16rpx;
+		margin-top: 5rpx;
+		margin-left: 20rpx;
+		background-image: url(../../static/img/5精彩视频_标题.png);
+		background-size: 100%100%;
+	}
+	.video2{
+		width: 170rpx;
+		height: 80rpx;
+		margin-top: 5rpx;
+		margin-left: 50rpx;
+	}
+	
+	/* 班级风采 */
+	.Classdemeanor{
+		position: fixed;
+		width: 270rpx;
+		height: 110rpx;
+		float: left;
+		margin-top: 300rpx;
+		margin-left: 17rpx;
+		border-radius:10px;
+		background-image: url(../../static/img/4班级宣传_背景.png);
+		background-size: 100%100%;
+		/* border: 1rpx #333333 solid; */
+		
+	}
+	.demeanor1{
+		width: 95rpx;
+		height: 16rpx;
+		margin-top: 5rpx;
+		margin-left: 10rpx;
+		background-image: url(../../static/img/5班级风采_标题.png);
+		background-size: 100%100%;
+		/* border: 1rpx #333333 solid; */
+	}
+
+	.demeanor2{
+		width: 170rpx;
+		height:80rpx;
+		margin-top: 5rpx;
+		margin-left: 50rpx;
+		border-radius:10px;
+		/* border: 1rpx #333333 solid; */
+	}
+	.demeanor3{
+		width: 170rpx;
+		height:80rpx;
+	}
+
+	
+	/* 课程安排 */
+	.curriculum{
+		position: fixed;
+		width: 170rpx;
+		height: 230rpx;
+		float: left;
+		margin-top: 240rpx;
+		margin-left: 255rpx;
+		border-radius:10px;
+		background-image: url(../../static/img/6课程安排_背景.png);
+		background-size: 100%100%;
+	}
+	.curr1{
+		width: 75rpx;
+		height: 13rpx;
+		margin-top: 5rpx;
+		margin-left: 50rpx;
+		background-image: url(../../static/img/6课程安排_标题.png);
+		background-size: 100%100%;
+	}
+	.currlum{
+		width: 140rpx;
+		height: 25rpx;
+		margin-top: 10rpx;
+		margin-left: 14rpx;
+	}
+	.currlum1{
+		width: 140rpx;
+		height: 25rpx;
+		margin-top: 4rpx;
+		margin-left: 14rpx;
+	}
+	.curriculum1{
+		width: 70rpx;
+		height: 13rpx;
+	}
+	.curriculum2{
+		width: 35rpx;
+		height: 20rpx;
+		margin-top: -20rpx;
+		margin-left: 100rpx;
+		text-align: center;
+		font-weight: bold;
+	}
+	
+	.colr{
+		font-size: 9rpx;
+		color: #007AFF;
+	}
+	.colr1{
+		font-size: 8rpx;
+	}
+	.colr2{
+		font-size: 12rpx;
+	}
+
+
+/* 菜单滚动 */
+.tabs-box{
+	width: 60rpx;
+	height: 50rpx;
+	margin-left: 20rpx;
+	/* border: 1rpx #333333 solid; */
+}
+
+.tab-font{
+	font-size: 15rpx;
+	/* border: 1rpx #333333 solid; */
+	margin-left: 20rpx;
+	float: left;
+}
+
+.tabs-img-box{
+	width: 30rpx;
+	height: 30rpx;
+	margin-left: 10rpx;
+	/* border: 1rpx #333333 solid; */
+}
+.tabs-img-style{
+	width: 30rpx;
+	height: 30rpx;
+}
+
+.tabs-font-box{
+	text-align: center;
+	width: 50rpx;
+	height: 20rpx;
+	/* border: 1rpx #333333 solid; */
+}
+.tabs-font-style{
+	margin-top: 5rpx;
+	font-size: 8rpx;
+}
+
+.tabs-style-box{
+	position: fixed;
+	width: 100%;
+	height: 50rpx;
+	float: left;
+	margin-top: 390rpx;
+	overflow: hidden;
+	/* border: 1rpx #333333 solid; */
+}

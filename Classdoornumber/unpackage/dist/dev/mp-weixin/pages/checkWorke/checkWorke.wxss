@@ -1,0 +1,179 @@
+page {
+	/* width: 750rpx; */
+	/* height: 550rpx; */
+}
+.text-center {
+	text-align: center;
+}
+.mg-t-5 {
+	margin-top: 5rpx;
+}
+.clear:after {
+	clear: both;
+	content: '';
+	display: block;
+}
+.text-25 {
+	font-size: 25rpx;
+}
+.content {
+	width: 750rpx;
+	margin: 0 auto;
+	height: 550rpx;
+}
+.person-image {
+	width: 130rpx;
+	height: 180rpx;
+}
+.mg-t-5 {
+	margin-top: 5rpx;
+}
+.m-t-10 {
+	margin-top: 10rpx;
+}
+.pd-5 {
+	padding: 5rpx;
+}
+.pd-l-5 {
+	padding-left: 5rpx;
+}
+.pd-r-5 {
+	padding-right: 5rpx;
+}
+.pd-r-25 {
+	padding-right: 25rpx;
+}
+.pd-r-20 {
+	padding-right: 20rpx;
+}
+.m-t-10 {
+	margin-top: 10rpx;
+}
+.m-r-5 {
+	margin-right: 5rpx;
+}
+.m-l-5 {
+	margin-left: 5rpx;
+}
+.mg-15 {
+	margin: 15rpx;
+}
+.content {
+	display: block;
+	clear: both;
+	content: '';
+}
+.pd-l-15 {
+	padding-left: 15rpx;
+}
+.pd-r-15 {
+	padding-right: 15rpx;
+}
+.pd-r-10 {
+	padding-right: 10rpx;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.text-15 {
+	font-size: 15rpx;
+}
+.m-t-25 {
+	margin-top: 25rpx;
+}
+.text-20 {
+	font-size: 20rpx;
+}
+.back {
+	position: absolute;
+	margin: 0 auto;
+	bottom: 8rpx;
+	left: 50%;
+	margin-left: -25rpx;
+}
+.back-image {
+	width: 35rpx;
+	height: 35rpx;
+}
+.checkWork {
+	width: 100%;
+	height: 100%;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	text-align: center;
+	position: relative;
+}
+.adress-img {
+	width: 35rpx;
+	height: 35rpx;
+}
+.check-box {
+	margin: 0 auto;
+	width: 80%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	padding-top: 80rpx;
+}
+.check-left {
+	width: 250rpx;
+	height: 250rpx;
+	background:#F0AD4E ;
+	border: 1px solid #F1F1F1;
+	border-radius: 8rpx;
+	padding: 25rpx;
+}
+.check-adress-box {
+	margin-top: 8rpx;
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	/* text-align: center; */
+	/* padding-left: 50rpx; */
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	line-height: 35rpx;
+	vertical-align: middle;
+	font-size: 14rpx;
+}
+.photo {
+	width: 250rpx;
+	height: 250rpx;
+	margin-left: 5rpx;
+	border-radius: 8rpx;
+	position: relative;
+}
+.check-title {
+	font-size: 25rpx;
+}
+.scholl-img {
+	width: 100rpx;
+	height: 100rpx;
+}
+.camera {
+	width: 300rpx;
+	height: 300rpx;
+	border-radius: 8rpx;
+}
+.primary-button {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+

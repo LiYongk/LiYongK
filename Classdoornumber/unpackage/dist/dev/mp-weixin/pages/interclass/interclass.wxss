@@ -1,0 +1,107 @@
+.swiper1.data-v-4b354f76{
+	/* 背景图片固定，不会因页面滚动而重复。 */
+	/* background-attachment: fixed; */
+	background-image: url(../../static/img/546596e605166.fff5bb2d.jpg);
+	background-size: 100%100%;
+	/* background-color: #007AFF; */
+}
+.inter-head.data-v-4b354f76{
+	float: right;
+	width: 300rpx;
+	height: 110rpx;
+	margin-top: 7rem;
+	margin-right: 1rem;
+	background-color: #333333;
+}
+.inter-head1.data-v-4b354f76{
+	float: left;
+	width: 300rpx;
+	height: 110rpx;
+	margin-top: 2rem;
+	margin-left: 400rpx;
+	background-color: #333333;
+}
+.font-color-size.data-v-4b354f76{
+	font-size: 25rpx;
+	color: #FFFFFF;
+}
+.item-classname.data-v-4b354f76{
+	width: 150rpx;
+	height: 25rpx;
+	margin: 10rpx;
+}
+
+
+/* 透明view css */
+.div-filter.data-v-4b354f76{
+	filter:alpha(Opacity=80);-moz-opacity:0.6;opacity: 0.6;
+}
+.div-filter1.data-v-4b354f76{
+	filter:alpha(Opacity=80);-moz-opacity:0.6;opacity:0.6;
+}
+.class-information.data-v-4b354f76{
+	width: 150rpx;
+	height: 20rpx;
+	margin-left: 10rpx;
+}
+.font-color-size1.data-v-4b354f76{
+	font-size: 12rpx;
+	color: #FFFFFF;
+}
+.learn-more.data-v-4b354f76{
+	width: 80rpx;
+	height: 20rpx;
+	float: right;
+	margin-right: 5rpx;
+}
+
+
+/* 新加 */
+.education.data-v-4b354f76{
+	width: 100%;
+	height:363rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	
+	-webkit-box-orient: vertical;
+	
+	-webkit-box-direction: normal;
+	
+	-webkit-flex-direction: column;
+	
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	margin-top: 10rpx;
+}
+.education-tilte.data-v-4b354f76{
+	width: 100%;
+	text-align: center;
+	height:40rpx;
+}
+.education-content.data-v-4b354f76{
+	float: left;
+	width: 100%;
+	height: 350rpx;
+}
+.education-font.data-v-4b354f76{
+	font-size: 15rpx;
+}
+.error.data-v-4b354f76{
+		width: 40rpx;
+		height: 30rpx;
+		margin-left: 350rpx;
+		margin-top: -50rpx;
+}
+.error-img.data-v-4b354f76{
+		float: left;
+		width: 40rpx;
+		height: 30rpx;
+}
+
+

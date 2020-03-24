@@ -1,0 +1,71 @@
+.content{
+			display: -webkit-box;
+			display: -webkit-flex;
+			display: flex;
+			-webkit-box-orient: vertical;
+			-webkit-box-direction: normal;
+			-webkit-flex-direction: column;
+			        flex-direction: column;
+			-webkit-box-align: center;
+			-webkit-align-items: center;
+			        align-items: center;
+			-webkit-box-pack: center;
+			-webkit-justify-content: center;
+			        justify-content: center;
+}
+.vuecont{
+		width: 170rpx;
+		height: 130rpx;
+		margin-top: 80rpx;
+}
+.vueimg{
+		width: 100rpx;
+		height: 70rpx;
+		margin-left: 40rpx;
+}
+.vuesize{
+		margin-top: 10rpx;
+		margin-left: 40rpx;
+		width: 100rpx;
+		text-align: center;
+		font-size: 15rpx;
+		/* 更换字体 */
+		font-family: cursive;
+		font-weight: bold;
+}
+.vuesize1{
+		margin-top: 10rpx;
+		margin-left: 20rpx;
+		width: 140rpx;
+		height: 16rpx;
+		text-align: center;
+		font-size: 15rpx;
+		/* 更换字体 */
+		font-family: cursive;
+}
+.tables{
+		text-align: center;
+		margin-top:10rpx;
+		font-size: 4rpx;
+}
+.kecheng{
+		width: 100rpx;
+		height: 20rpx;
+		font-size: 15rpx;
+		text-align: center;
+		margin-top: 60rpx;
+}
+.error{
+	width: 40rpx;
+	height: 30rpx;
+	margin-top: 160rpx;
+}
+.error-img{
+	float: left;
+	width: 40rpx;
+	height: 30rpx;
+}
+
+
+
+

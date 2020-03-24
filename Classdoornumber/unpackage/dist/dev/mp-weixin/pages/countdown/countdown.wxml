@@ -1,0 +1,1 @@
+<view class="content"><view class="vuecont"><view class="vueimg vuesize">放图片处</view><view class="vuesize">暂无内容</view><view class="vuesize1">请联系管理员更新</view></view><view data-event-opts="{{[['tap',[['error',['$event']]]]]}}" class="error" bindtap="__e"><image class="error-img" src="../../static/errorimg.png"></image></view></view>

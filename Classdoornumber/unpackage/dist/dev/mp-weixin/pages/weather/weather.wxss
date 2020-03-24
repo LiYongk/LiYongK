@@ -1,0 +1,189 @@
+page {
+	/* width: 750rpx; */
+	/* height: 550rpx; */
+}
+.text-center {
+	text-align: center;
+}
+.mg-t-5 {
+	margin-top: 5rpx;
+}
+.clear:after {
+	clear: both;
+	content: '';
+	display: block;
+}
+.text-25 {
+	font-size: 25rpx;
+}
+.content {
+	width: 750rpx;
+	margin: 0 auto;
+	height: 550rpx;
+}
+.person-image {
+	width: 130rpx;
+	height: 180rpx;
+}
+.mg-t-5 {
+	margin-top: 5rpx;
+}
+.m-t-10 {
+	margin-top: 10rpx;
+}
+.pd-5 {
+	padding: 5rpx;
+}
+.pd-l-5 {
+	padding-left: 5rpx;
+}
+.pd-r-5 {
+	padding-right: 5rpx;
+}
+.pd-r-25 {
+	padding-right: 25rpx;
+}
+.pd-r-20 {
+	padding-right: 20rpx;
+}
+.m-t-10 {
+	margin-top: 10rpx;
+}
+.m-r-5 {
+	margin-right: 5rpx;
+}
+.m-l-5 {
+	margin-left: 5rpx;
+}
+.mg-15 {
+	margin: 15rpx;
+}
+.content {
+	display: block;
+	clear: both;
+	content: '';
+}
+.pd-l-15 {
+	padding-left: 15rpx;
+}
+.pd-r-15 {
+	padding-right: 15rpx;
+}
+.pd-r-10 {
+	padding-right: 10rpx;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.text-15 {
+	font-size: 15rpx;
+}
+.m-t-25 {
+	margin-top: 25rpx;
+}
+.text-20 {
+	font-size: 20rpx;
+}
+.back {
+	position: absolute;
+	margin: 0 auto;
+	bottom: 8rpx;
+	left: 50%;
+	margin-left: -25rpx;
+}
+.back-image {
+	width: 35rpx;
+	height: 35rpx;
+}
+.weather-box {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	color: #fff;
+	background-size: 100% 100%;
+}
+.weather-text {
+	font-size: 25rpx;
+	color: #fff;
+}
+.one-text-box {
+	padding-right: 80rpx;
+	padding-top: 60rpx;
+}
+.two-text-box {
+	padding-top: 40rpx;
+	padding-right: 30rpx;
+}
+.one-text, .two-text {
+	width: 25rpx;
+	word-wrap: wrap;
+	font-size: 26rpx;
+	word-break: normal;
+	display: block;
+}
+.one-text {
+	padding-top: 80rpx;
+	padding-right: 30rpx;
+}
+.two-text {
+	padding-top: 40rpx;
+	padding-right: 30rpx;
+}
+.weather-detail-box {
+	margin-top: 25rpx;
+	margin-left: 20rpx;
+	position: relative;
+	height: 100%;
+	width: 50%;
+	font-size: 14rpx;
+}
+.day-weather {
+	border: 1px dashed #fff;
+	border-left: none;
+	border-right: none;
+	height: 30rpx;
+	line-height: 30rpx;
+	width: 50%;
+}
+.day-weather.two {
+	border: none;
+}
+.weather-bottom {
+	position: absolute;
+	bottom: 8%;
+	left: 25rpx;
+	width: 100%;
+}
+.weather-temperature {
+	font-size: 35rpx;
+}
+.weather-temperature, .wind-direction {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	width: 100%;
+}
+.back {
+	position: absolute;
+	margin: 0 auto;
+	bottom: 8rpx;
+	text-align: center;
+	left: 50%;
+	margin-left: -15rpx;
+}
+.back-image {
+	width: 35rpx;
+	height: 35rpx;
+}
+

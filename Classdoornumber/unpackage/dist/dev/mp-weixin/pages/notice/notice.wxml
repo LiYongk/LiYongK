@@ -1,0 +1,1 @@
+<view><view class="content"><view class="tilte">关于国庆节放假的通知</view><view class="content1">国庆节放假时间为9月30日-10月15日，15日下午4:30左右返校</view></view><view data-event-opts="{{[['tap',[['error',['$event']]]]]}}" class="error" bindtap="__e"><image class="error-img" src="../../static/errorimg.png"></image></view></view>

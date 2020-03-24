@@ -1,0 +1,42 @@
+.outer-frame{
+	width: 178rpx;
+	height: 130rpx;
+	margin: 3rpx;
+	float: left;
+	/* border: 1rpx #333333 solid; */
+	
+}
+.picture-box{
+	width: 100%;
+	height: 100rpx;
+	
+}
+.font-box{
+	width: 100%;
+	height: 29rpx;
+	
+}
+.font-style{
+	margin-top: 5rpx;
+	text-align: center;
+	font-size: 13rpx;
+}
+
+.image{
+	width: 100%;
+	height: 100%;
+}
+
+.error{
+		width: 40rpx;
+		height: 30rpx;
+		float: left;
+		margin-top: 6rem;
+		/* border: 1rpx #333333 solid; */
+	}
+	
+	.error-img{
+		float: left;
+		width: 40rpx;
+		height: 30rpx;
+	}
